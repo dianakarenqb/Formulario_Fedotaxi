@@ -1,16 +1,16 @@
 # Formulario_Fedotaxi
 Practica Experimental 1 de la materia de desarrollo web
 
-# Formulario de Registro - Cooperativa de Taxis RápidoSeguro
+# Formulario de Registro - Cooperativa Fedotaxi
 
 ## Descripción
-Este proyecto es un formulario de registro para una cooperativa de taxis, diseñado en **HTML5**, estilizado con **CSS3** (flexbox para el diseño), y validado mediante **JavaScript**.
+Este proyecto es un formulario de registro para una cooperativa de taxis, diseñado en **HTML**, estilizado con **CSS** y validado mediante **JavaScript**.
 
 ## Estructura de archivos
-formulario-fedotaxi\
-├── index.html
-├── style.css
-└── script.js
+  formulario-fedotaxi\
+   - index.html
+   - style.css
+   - script.js
 
 
 ## Instalación y ejecución
